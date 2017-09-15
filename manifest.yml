@@ -1,4 +1,4 @@
 applications:
 - services:
   command: node app.js
-  
+  name: skylab-imageclassify
