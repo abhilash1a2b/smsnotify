@@ -1,0 +1,4 @@
+applications:
+- services:
+  command: node app.js
+  
